@@ -3,7 +3,10 @@ Nama: Andreyansah
 Kelompok : TI6A
 
 hasil saya menyadur:
-1) Ada tugas untuk menyadur tiap pertemuan dan ditaruh di github
-2) Buat kelompok presentasi sebanyak 3 orang / kelompok
-3) nonton channel youtube yohanes setiawan japriadi untuk penjelasan secara lengkap
-4) dll
+1) saya disuruh membuat github
+2) Ada tugas untuk menyadur tiap pertemuan dan ditaruh di github
+3) disetiap saduran yang kita buat,akan diperiksa oleh dosen untuk nilai kehadiran dan tugas
+4) Buat kelompok presentasi sebanyak 3 orang / kelompok
+5) nonton channel youtube yohanes setiawan japriadi untuk penjelasan secara lengkap
+6) merubah github pages dan menyalin url nya
+
